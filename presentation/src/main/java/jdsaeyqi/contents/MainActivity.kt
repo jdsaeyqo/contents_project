@@ -2,7 +2,6 @@ package jdsaeyqi.contents
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import jdsaeyqi.content.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
