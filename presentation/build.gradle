@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'jdsaeyqi.content'
+    namespace 'jdsaeyqi.contents'
     compileSdk 33
 
     defaultConfig {
-        applicationId "jdsaeyqi.content"
+        applicationId "jdsaeyqi.contents"
         minSdk 30
         targetSdk 33
         versionCode 1
